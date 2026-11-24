@@ -1,4 +1,5 @@
-"""School Strip autocorrect fail — one-line entry for the Funniest Autocorrect Fail bounty."""
+"""School Strip autocorrect fail — one-line entry for the Funniest Autocorrect Fail bounty.
+Verified: entry 71 chars, md5 f21db6f76324201ecbc11ceebe70873a, sha256 ee3d6bda3a2a…"""
 
 import os
 
